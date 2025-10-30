@@ -1,0 +1,49 @@
+﻿Tasks
+
+
+Technical Analysis
+
+
+1. Data Cleaning 
+
+
+
+
+Data Domain
+	Specific Tasks
+	Core Game Metadata
+	Clean the columns and remove the duplicates
+	Numerical Features
+	Handle missing values, normalize values, fix any numerical inconsistencies
+	Summary Statistics and Initial Visualization
+	Mean, Median, Standard Deviation etc
+	
+
+2. Genre Ecosystem Architecture & Technical Dependencies
+* Analyze genre co-occurrence networks and dependency patterns
+* Identify core vs. peripheral genres in the Steam ecosystem
+* Map genre combinations that define technical game categories
+* Build reusable data processing pipelines for the team
+
+
+3. Player Preference Patterns & Market Association Rules
+* Implement association rule mining on genre and tag combinations
+* Identify strong market patterns (if X genres then likely Y genres)
+* Analyze what genre combinations drive player engagement
+* Discover hidden relationships between game features
+
+
+4. Player Behavioral Clustering & Engagement Patterns
+* Cluster games based on player behavior metrics (playtime, ratings, price)
+* Identify distinct player segments and their characteristics
+* Analyze what game features correlate with sustained engagement
+* Profile behavioral archetypes in the gaming community
+
+
+Report and Presentation
+
+
+1. Jupyter Notebook Integration
+2. Synthesis and validation
+3. Report Integration
+4. Presentation Slides
